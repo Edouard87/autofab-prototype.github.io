@@ -213,45 +213,45 @@ div {
 }
 .thelabspacepage .bitmap1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 317px;
-  height              : 162px;
-  width               : 491px;
+  top                 : 282px;
+  height              : 225px;
+  width               : 681px;
   position            : absolute;
   margin              : 0;
-  left                : 881px;
+  left                : 952px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
 .thelabspacepage .bitmap2 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 520px;
-  height              : 121px;
-  width               : 500px;
+  top                 : 522px;
+  height              : 165px;
+  width               : 681px;
   position            : absolute;
   margin              : 0;
-  left                : 876px;
+  left                : 952px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
 .thelabspacepage .bitmap3 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 678px;
-  height              : 177px;
-  width               : 236px;
+  top                 : 713px;
+  height              : 237px;
+  width               : 316px;
   position            : absolute;
   margin              : 0;
-  left                : 876px;
+  left                : 952px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
 .thelabspacepage .bitmap4 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 678px;
-  height              : 177px;
-  width               : 236px;
+  top                 : 713px;
+  height              : 237px;
+  width               : 316px;
   position            : absolute;
   margin              : 0;
-  left                : 1146px;
+  left                : 1317px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -467,6 +467,39 @@ div {
   border-style        : solid;
   border-width        : 1px;
   border-color        : rgba(150, 150, 150, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.thelabspacepage .hotspot {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : 144px;
+  width               : 153px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.thelabspacepage .hotspot1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 356px;
+  height              : 48px;
+  width               : 166px;
+  position            : absolute;
+  margin              : 0;
+  left                : 47px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.thelabspacepage .hotspot2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 452px;
+  height              : 48px;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 47px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }

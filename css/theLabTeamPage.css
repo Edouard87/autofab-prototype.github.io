@@ -391,6 +391,39 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
+.thelabteampage .hotspot {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 38px;
+  height              : 134px;
+  width               : 131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 47px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.thelabteampage .hotspot1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 404px;
+  height              : 48px;
+  width               : 166px;
+  position            : absolute;
+  margin              : 0;
+  left                : 47px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.thelabteampage .hotspot2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 452px;
+  height              : 48px;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 47px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
   opacity             : 0;

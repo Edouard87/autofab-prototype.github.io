@@ -973,7 +973,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.newhomestarthereredesignedtestlargernoboxestest .navaraccounthotspot .hotspot2 {
+.newhomestarthereredesignedtestlargernoboxestest .navaraccounthotspot .hotspot6 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 43px;
@@ -992,6 +992,50 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 163px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.newhomestarthereredesignedtestlargernoboxestest .hotspot2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 85px;
+  height              : 43px;
+  width               : 120px;
+  position            : absolute;
+  margin              : 0;
+  left                : 258px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.newhomestarthereredesignedtestlargernoboxestest .hotspot3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 85px;
+  height              : 43px;
+  width               : 156px;
+  position            : absolute;
+  margin              : 0;
+  left                : 456px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.newhomestarthereredesignedtestlargernoboxestest .hotspot4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 85px;
+  height              : 43px;
+  width               : 242px;
+  position            : absolute;
+  margin              : 0;
+  left                : 704px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.newhomestarthereredesignedtestlargernoboxestest .hotspot5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 85px;
+  height              : 22px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1627px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }

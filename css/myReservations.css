@@ -614,6 +614,17 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
+.myreservations .hotspot1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 143px;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
   opacity             : 0;

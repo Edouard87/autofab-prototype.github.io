@@ -480,6 +480,39 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
+.thelabmachinespage .hotspot {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 173px;
+  width               : 131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 47px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.thelabmachinespage .hotspot1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 356px;
+  height              : 48px;
+  width               : 166px;
+  position            : absolute;
+  margin              : 0;
+  left                : 47px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.thelabmachinespage .hotspot2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 404px;
+  height              : 48px;
+  width               : 166px;
+  position            : absolute;
+  margin              : 0;
+  left                : 47px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
   opacity             : 0;
